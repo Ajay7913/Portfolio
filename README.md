@@ -1,2 +1,2 @@
 # Portfolio
-portFolio Link :https://ajayware-portfolio.netlify.app/
+Portfolio Link :https://ajayware-portfolio.netlify.app/
